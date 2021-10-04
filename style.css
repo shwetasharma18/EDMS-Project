@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(225, 230, 230);
+}
+.container {
+    margin-left: 25%;
+    margin-top: 5%;
+}
+
+.search-bar {
+    margin-left: 15%;
+}
+
+#input1 {
+    margin-left: 3%;
+}
+
+.table-header {
+    background-color:white; 
+    font-size: large;
+    font-weight:bold
+} 
+
+.table-body {
+    background-color:white;
+    font-size: large;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+.button {
+    font-weight:bold;
+    width: 40%;
+    height: 30px;
+}
+
+.submit-button {
+    font-weight:bold;
+    width: 10%;
+    height: 30px;
+}
+
+.search-box {
+    width: 20%;
+    height: 24px;
+}
